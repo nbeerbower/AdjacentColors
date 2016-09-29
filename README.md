@@ -3,7 +3,7 @@ Something I coded up quickly as a refresher in Java swing and to revisit an inte
 Please do whatever you want with this. Hopefully others learn something!
 
 ## What It Does
-Input an index of a cell shown on the screen and the program will calculate the number of adjacent cells with the same color. You can change a cell's color by clicking on it.
+Input an index of a cell shown on the screen and the program will calculate the number of adjacent cells with the same color (recursively). You can change a cell's color by clicking on it.
 
 ## Screenshot
 <p align="center">
