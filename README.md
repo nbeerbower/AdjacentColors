@@ -7,5 +7,5 @@ Input an index of a cell shown on the screen and the program will calculate the 
 
 ## Screenshot
 <p align="center">
-  <img src="https://github.com/nbeerbower/AdjacentColors/blob/master/screenshot.PNG?raw=true"/>
+  <img src="https://github.com/nbeerbower/AdjacentColors/blob/000e8d3a8dc892a9076dd18d5d528844bfae3e4f/screenshot.PNG?raw=true"/>
 </p>
